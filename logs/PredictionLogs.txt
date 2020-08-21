@@ -1,0 +1,9 @@
+2020-07-11/21:02:51		Starting the predict data
+2020-07-11/21:02:51		Starting to load models
+2020-07-11/21:02:51		Loading of models completed
+2020-07-11/21:02:51		Converting data to dataframe
+2020-07-11/21:02:51		Prepared the final dataframe
+2020-07-11/21:02:51		Preprocessing the final dataframe with scalar and pca transform
+2020-07-11/21:02:51		Predicting the result
+2020-07-11/21:02:51		Prediction completed
+2020-07-11/21:02:51		=================================================

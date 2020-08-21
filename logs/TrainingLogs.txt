@@ -1,0 +1,151 @@
+2020-07-11/20:04:28		Start of Training
+2020-07-11/20:04:28		Received data
+2020-07-11/20:04:29		Checked data
+2020-07-11/20:04:29		Preprocessed data
+2020-07-11/20:04:29		Splitted data into X and y
+2020-07-11/20:04:29		Scalar transformed X data
+2020-07-11/20:04:29		pca transformed x data     
+2020-07-11/20:04:29		splitted data into train and test
+2020-07-11/20:04:29		trained classifier
+2020-07-11/20:06:14		grid search done and got best params 
+2020-07-11/20:06:14		fitting after grid search 
+2020-07-11/20:06:14		training complete
+2020-07-11/20:07:47		Start of Training
+2020-07-11/20:07:47		Received data
+2020-07-11/20:07:47		Checked data
+2020-07-11/20:07:47		Preprocessed data
+2020-07-11/20:07:47		Splitted data into X and y
+2020-07-11/20:07:47		Scalar transformed X data
+2020-07-11/20:07:47		pca transformed x data     
+2020-07-11/20:07:47		splitted data into train and test
+2020-07-11/20:07:47		trained classifier
+2020-07-11/20:09:39		grid search done and got best params 
+2020-07-11/20:09:39		fitting after grid search 
+2020-07-11/20:09:39		training complete
+2020-07-11/20:25:17		Start of Training
+2020-07-11/20:25:17		Started getting the data
+2020-07-11/20:25:17		Received the data
+2020-07-11/20:25:18		Starting to Preprocess the data
+2020-07-11/20:26:03		Start of Training
+2020-07-11/20:26:03		Started getting the data
+2020-07-11/20:26:03		Received the data
+2020-07-11/20:26:03		Starting to Preprocess the data
+2020-07-11/20:26:03		Preprocessing of data completed
+2020-07-11/20:26:03		Splitting the  data into X and y variables completed
+2020-07-11/20:26:03		Applying Scalar transformation
+2020-07-11/20:26:04		Scalar transformation of features data completed
+2020-07-11/20:26:04		Applying pca transformation
+2020-07-11/20:26:04		Pca transformation of feature data completed 
+2020-07-11/20:26:04		Splitting of data into train and test completed
+2020-07-11/20:26:04		Training of Decision Tree classifier without best parameters
+2020-07-11/20:26:04		Starting the grid seach
+2020-07-11/20:26:04		Setting up parameters
+2020-07-11/20:26:04		Fitting the Grid search Model
+2020-07-11/20:28:01		Best parameter for max depth is 19
+2020-07-11/20:28:01		Best parameter for min_samples_leaf is 1
+2020-07-11/20:28:01		Best parameter for min_samples_split is 4
+2020-07-11/20:28:01		Best parameter for splitter is random
+2020-07-11/20:28:01		Grid search completed and received the best parameters 
+2020-07-11/20:28:01		Fitting the Decision Tree Classifier with best parameters 
+2020-07-11/20:28:01		Training complete
+2020-07-11/20:28:01		====================================
+2020-07-11/20:28:01		Saving the models at location
+2020-07-11/20:48:50		Start of Training
+2020-07-11/20:48:50		Started getting the data
+2020-07-11/20:48:50		Received the data
+2020-07-11/20:48:50		Starting to Preprocess the data
+2020-07-11/20:48:51		Preprocessing of data completed
+2020-07-11/20:48:51		Splitting the  data into X and y variables completed
+2020-07-11/20:48:51		Applying Scalar transformation
+2020-07-11/20:48:51		Scalar transformation of features data completed
+2020-07-11/20:48:51		Applying pca transformation
+2020-07-11/20:48:51		Pca transformation of feature data completed 
+2020-07-11/20:48:51		Splitting of data into train and test completed
+2020-07-11/20:48:51		Training of Decision Tree classifier without best parameters
+2020-07-11/20:48:51		Starting the grid seach
+2020-07-11/20:48:51		Setting up parameters
+2020-07-11/20:48:51		Fitting the Grid search Model
+2020-07-11/20:49:12		Start of Training
+2020-07-11/20:49:12		Started getting the data
+2020-07-11/20:49:12		Received the data
+2020-07-11/20:49:12		Starting to Preprocess the data
+2020-07-11/20:49:12		Preprocessing of data completed
+2020-07-11/20:49:12		Splitting the  data into X and y variables completed
+2020-07-11/20:49:12		Applying Scalar transformation
+2020-07-11/20:49:12		Scalar transformation of features data completed
+2020-07-11/20:49:12		Applying pca transformation
+2020-07-11/20:49:12		Pca transformation of feature data completed 
+2020-07-11/20:49:12		Splitting of data into train and test completed
+2020-07-11/20:49:12		Training of Decision Tree classifier without best parameters
+2020-07-11/20:49:12		Starting the grid seach
+2020-07-11/20:49:12		Setting up parameters
+2020-07-11/20:49:12		Fitting the Grid search Model
+2020-07-11/20:51:01		Best parameter for max depth is 21
+2020-07-11/20:51:01		Best parameter for min_samples_leaf is 1
+2020-07-11/20:51:01		Best parameter for min_samples_split is 4
+2020-07-11/20:51:01		Best parameter for splitter is random
+2020-07-11/20:51:01		Grid search completed and received the best parameters 
+2020-07-11/20:51:01		Fitting the Decision Tree Classifier with best parameters 
+2020-07-11/20:51:01		Training complete
+2020-07-11/20:51:01		====================================
+2020-07-11/20:51:01		Saving the models at location
+2020-07-11/20:51:03		Start of Training
+2020-07-11/20:51:03		Started getting the data
+2020-07-11/20:51:03		Received the data
+2020-07-11/20:51:03		Starting to Preprocess the data
+2020-07-11/20:51:03		Preprocessing of data completed
+2020-07-11/20:51:03		Splitting the  data into X and y variables completed
+2020-07-11/20:51:03		Applying Scalar transformation
+2020-07-11/20:51:03		Scalar transformation of features data completed
+2020-07-11/20:51:03		Applying pca transformation
+2020-07-11/20:51:03		Pca transformation of feature data completed 
+2020-07-11/20:51:03		Splitting of data into train and test completed
+2020-07-11/20:51:03		Training of Decision Tree classifier without best parameters
+2020-07-11/20:51:03		Starting the grid seach
+2020-07-11/20:51:03		Setting up parameters
+2020-07-11/20:51:03		Fitting the Grid search Model
+2020-07-11/20:51:59		Start of Training
+2020-07-11/20:51:59		Started getting the data
+2020-07-11/20:52:00		Received the data
+2020-07-11/20:52:00		Starting to Preprocess the data
+2020-07-11/20:52:00		Preprocessing of data completed
+2020-07-11/20:52:00		Splitting the  data into X and y variables completed
+2020-07-11/20:52:00		Applying Scalar transformation
+2020-07-11/20:52:00		Scalar transformation of features data completed
+2020-07-11/20:52:00		Applying pca transformation
+2020-07-11/20:52:00		Pca transformation of feature data completed 
+2020-07-11/20:52:00		Splitting of data into train and test completed
+2020-07-11/20:52:00		Training of Decision Tree classifier without best parameters
+2020-07-11/20:52:00		Starting the grid seach
+2020-07-11/20:52:00		Setting up parameters
+2020-07-11/20:52:00		Fitting the Grid search Model
+2020-07-11/20:57:10		Start of Training
+2020-07-11/20:57:10		Started getting the data
+2020-07-11/20:57:10		Received the data
+2020-07-11/20:57:10		Starting to Preprocess the data
+2020-07-11/20:57:10		Preprocessing of data completed
+2020-07-11/20:57:10		Splitting the  data into X and y variables completed
+2020-07-11/20:57:10		Applying Scalar transformation
+2020-07-11/20:57:10		Scalar transformation of features data completed
+2020-07-11/20:57:10		Applying pca transformation
+2020-07-11/20:57:10		Pca transformation of feature data completed 
+2020-07-11/20:57:10		Splitting of data into train and test completed
+2020-07-11/20:57:10		Training of Decision Tree classifier without best parameters
+2020-07-11/20:57:10		Starting the grid seach
+2020-07-11/20:57:10		Setting up parameters
+2020-07-11/20:57:10		Fitting the Grid search Model
+2020-07-11/20:57:35		Start of Training
+2020-07-11/20:57:35		Started getting the data
+2020-07-11/20:57:35		Received the data
+2020-07-11/20:57:35		Starting to Preprocess the data
+2020-07-11/20:57:35		Preprocessing of data completed
+2020-07-11/20:57:35		Splitting the  data into X and y variables completed
+2020-07-11/20:57:35		Applying Scalar transformation
+2020-07-11/20:57:35		Scalar transformation of features data completed
+2020-07-11/20:57:35		Applying pca transformation
+2020-07-11/20:57:35		Pca transformation of feature data completed 
+2020-07-11/20:57:35		Splitting of data into train and test completed
+2020-07-11/20:57:35		Training of Decision Tree classifier without best parameters
+2020-07-11/20:57:35		Starting the grid seach
+2020-07-11/20:57:35		Setting up parameters
+2020-07-11/20:57:35		Fitting the Grid search Model

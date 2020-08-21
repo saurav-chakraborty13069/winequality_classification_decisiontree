@@ -1,0 +1,4 @@
+2020-07-11/21:01:56		Start getting data from UI
+2020-07-11/21:02:51		Start getting data from UI
+2020-07-11/21:02:51		Complete getting data from UI
+2020-07-11/21:02:51		Passing mydict to prediction.predict_data
